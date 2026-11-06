@@ -24,3 +24,7 @@ Frontend only, with no backend. Pinned notes and the torn ticket live in the vis
 - The logo in `lib/logo-paths.ts` is traced from Sonora's reel end card.
 
 Every fact on the page is sourced in `research/scraped-data.md`. Foodpanda blocked automated access, so menu prices come from Sonora's printed Winter Specials card and dated creator posts.
+
+## Deploy
+
+Live at https://sonora-cafe.vercel.app. The Vercel project `sonora-cafe` is connected to this GitHub repo with Root Directory `frontend`, so every push to `main` deploys to production. For a manual deploy, run `vercel deploy --prod` from the repo root (not from `frontend/`, since the root directory is already applied).
