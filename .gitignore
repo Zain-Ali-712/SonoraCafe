@@ -1,0 +1,16 @@
+# raw research media and working sheets (large, third-party sources)
+research/media/
+research/frames/
+research/stills/
+research/sheets/
+research/qc/
+research/food/
+research/wall/
+research/gmaps/*.jpg
+research/urls.txt
+research/gmaps/urls.txt
+
+# local tooling
+.claude/
+node_modules/
+.vercel

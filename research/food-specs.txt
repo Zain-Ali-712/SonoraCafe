@@ -1,0 +1,17 @@
+# name src start end crop(x0 y0 x1 y1) on 720x1280
+linguine pvid-p6 3.3 5.2 0 150 720 1050
+linguine2 pvid-p6 28 33 0 200 720 1100
+buttermilk pvid-p6 66 73 0 200 720 1100
+cheesepull pvid-p6 8 14 0 150 720 1050
+wrap pvid-p5 27 33 0 150 720 1050
+fries pvid-p5 17 22 0 0 720 780
+breakfast pvid-p8 8 9.2 0 150 720 1050
+breakfast2 pvid-p8 5.7 7.7 0 150 720 1050
+eclair pvid-p0 5.9 7.0 0 320 720 1220
+latteart pvid-p3 12 14 0 250 720 1150
+omelette pvid-p7 0 1.2 0 0 720 800
+sandwiches pvid-p9 9 11.5 0 380 720 1280
+pasta pvid-p4 1.0 2.6 0 0 720 840
+redplate vid-DdsyXOvMEMK 10 12.6 0 300 720 1200
+foodtable pvid-p8 4.9 5.7 0 150 720 1050
+fries2 pvid-p5 40 46 0 150 720 1050

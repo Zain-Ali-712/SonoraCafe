@@ -1,0 +1,24 @@
+# tag src start len cropY
+space-bar pvid-p2 1.0 2.0 300
+space-mural pvid-p2 5.0 1.6 300
+space-lights pvid-p2 10.0 1.8 300
+space-cinema pvid-p2 13.0 1.0 300
+space-gallery pvid-p2 17.0 1.8 300
+sun-brushes vid-DewwZmtMlRx 0.0 2.0 160
+sun-cups vid-DewwZmtMlRx 4.0 1.6 160
+sun-guitar vid-DewwZmtMlRx 7.0 2.0 160
+sun-jam vid-DewwZmtMlRx 15.0 1.0 160
+sun-star vid-DewwZmtMlRx 16.0 2.0 160
+sun-paint vid-DeZnr0KsF4q 9.0 2.0 300
+wall-wide pvid-p8 4.0 1.0 150
+wall-cubbies pvid-p8 10.0 1.0 150
+wall-notes pvid-p8 13.0 1.0 150
+wall-p2a pvid-p2 12.0 1.0 300
+wall-p2b pvid-p2 16.0 1.0 300
+ext-facade pvid-p8 1.0 1.8 150
+tab-food pvid-p8 5.0 3.0 150
+tab-espresso pvid-p4 5.0 1.0 200
+tab-pasta pvid-p4 1.0 1.5 200
+tab-red vid-DdsyXOvMEMK 10.0 2.5 200
+tab-pour vid-DdsyXOvMEMK 0.0 3.0 300
+tab-omelette vid-DdsyXOvMEMK 4.0 1.5 200
